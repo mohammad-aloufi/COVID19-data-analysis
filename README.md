@@ -5,7 +5,7 @@ This is an app that does some data analysis on the covid19 latest dataset.
 # How to use?
 
 First things first: If you want to run this from source, you have to install pandas first.  
-"pip install pandas"
+"pip install pandas"  
 I think you might need numpy too:  
 "pip install numpy"  
 Using the app is simple. You just have to open it and wait for it to generate a report. When it's done, it'll print a message telling you that the report is generated and saved.
@@ -25,7 +25,8 @@ And more...
 
 Unfortunately, the api doesn't give me access to the data sets for the previous few days, or else I probably would have been able to improve the accuracy of the date estimated for full recovery.
 However, if you see a country's estimaded date say 29/09/2020 and you check it the next day and find it changed to 27/09/2020, that means that they're on the right track.
-#Contributions
+
+# Contributions
 
 Contributions are always welcome.
 
