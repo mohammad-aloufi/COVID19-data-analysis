@@ -4,10 +4,10 @@ This is an app that does some data analysis on the covid19 latest dataset.
 
 # How to use?
 
-First things first: If you want to run this from source, you have to install pandas first.
+First things first: If you want to run this from source, you have to install pandas first.  
 "pip install pandas"
-I think you might need numpy too:
-"pip install numpy"
+I think you might need numpy too:  
+"pip install numpy"  
 Using the app is simple. You just have to open it and wait for it to generate a report. When it's done, it'll print a message telling you that the report is generated and saved.
 It will ask you if you want to view the report or not, answer yes if you want to read it or just press enter if not.
 It will tell you that the report has been saved in a file called "report.html" so you can read it any time you like.
