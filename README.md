@@ -32,5 +32,5 @@ Contributions are always welcome.
 
 # Released version
 
-Please check out the releases page for the released version. You don't have to run that from source.
-In the released version, the main file for the app is called "main.exe"
+I have a compiled version ready, but unfortunately, I couldn't upload it to github because it's bigger than 10 mb.
+If anyone is willing to host it please get in touch.
