@@ -32,5 +32,5 @@ Contributions are always welcome.
 
 # Released version
 
-I have a compiled version ready, but unfortunately, I couldn't upload it to github because it's bigger than 10 mb.
-If anyone is willing to host it please get in touch.
+At first I couldn't upload a released version to github, that was because the file size was larger than 10 mb. However, I upload it using the binary option and it worked.
+You can grab the released version from [here](https://github.com/mohammad-aloufi/COVID19-data-analysis-/releases/download/V1.0/Covid19_Data_Analysis.zip)
